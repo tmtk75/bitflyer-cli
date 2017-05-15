@@ -1,0 +1,10 @@
+{
+  "name": "bitflyer-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tomotaka Sakuma <ktmtmks@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
